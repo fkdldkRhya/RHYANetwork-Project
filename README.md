@@ -2,4 +2,4 @@ RHYANetwork Project
 ===
 
 ## RHYA.Network diagram
-![RHYANetwork.svg](RHYANetwork.svg)
+![diagram](RHYANetwork.svg)
